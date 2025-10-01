@@ -1,0 +1,12 @@
+1. Installed WSL and Ubuntu on Windows.
+2. Installed nvm with:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+3. Restarted the terminal and loaded nvm.
+4. Installed Node.js version 20.16 using:
+   nvm install 20.16
+   nvm use 10.8.1
+5. Verified installation with:
+   node -v
+   npm -v
+6. Installed Sass version 3.7.4 using:
+   npm install sass -v 3.7.4
